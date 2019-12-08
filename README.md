@@ -1,4 +1,4 @@
-# 2D Occupency Grid SLAM
+# 2D Occupancy Grid SLAM
 ## Introduction
 A simple python implement of Grid-based Rao-Blackwellized particle filter(RBPF) SLAM.<br>
 Run the code: `python test.py`
